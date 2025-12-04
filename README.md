@@ -72,7 +72,7 @@ This project aims to build a regression model that accurately predicts solar pow
 
 ---
 
-##  7. Dashboard / Model / Output
+##  7. Model / Output
 - **EDA Visuals**: boxplots, histograms, scatterplots, and a correlation heatmap.  
 - **Feature Importance**: plotted from Decision Tree / Random Forest to identify the most influential features.  
 - **Model Comparison Table**: R², MAE, MSE for Linear Regression, Lasso, Ridge, Decision Tree, Random Forest, Tuned Random Forest, and XGBoost.  
