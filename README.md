@@ -33,8 +33,7 @@ This project aims to build a regression model that accurately predicts solar pow
   - `average-wind-speed-(period)` (m/s)  
   - `average-pressure-(period)` (in mercury inches)  
 
-- **Target Variable:** `power-generated` (Joules per 3 hours / converted to kWh in app as applicable)
-
+- **Target Variable:** `power-generated (kWh)`
 ---
 
 ##  4. Tools and Technologies
