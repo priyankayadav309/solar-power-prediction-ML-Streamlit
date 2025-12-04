@@ -4,10 +4,11 @@
   
 Machine Learning model to predict solar power generation (kWh) using weather conditions with a deployed Streamlit web application.
 
+---
 
 ##  1. Overview
 This project predicts solar power generation based on weather parameters such as temperature, humidity, wind speed, sky cover, and distance to solar noon.  
-A user-friendly **Streamlit web app** is provided to make real-time predictions from user inputs.
+A user-friendly *Streamlit web app* is provided to make real-time predictions from user inputs.
 
 ---
 
